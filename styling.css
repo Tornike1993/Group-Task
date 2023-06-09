@@ -1,0 +1,35 @@
+header {
+  width: 1920px;
+  height: 308px;
+  background-color: blue;
+}
+
+.header_title {
+  font-size: 32px;
+  color: white;
+}
+
+
+.dots {
+  float: right;
+  margin-top: 15px;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  margin-right: 5px;
+  background-color: white;
+  border-radius: 50%;
+}
+
+.dot1 {
+  opacity: 1;
+  border-radius: 50%
+}
+
+.dot2,
+.dot3 {
+  opacity: 0.3;
+  border-radius: 50%
+}
