@@ -1,0 +1,18 @@
+.box{
+	position:relative;
+}
+.box{
+	display:inline-block;
+	width:463px;
+	height:420px;
+	vertical-align:right;
+	margin-inline:25px;
+}
+.box p{
+	position:absolute;
+	width:80%;
+	padding:5px;
+	bottom:1px;
+	left:50px;
+	background-color:white;
+}
